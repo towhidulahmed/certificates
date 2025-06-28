@@ -1,6 +1,6 @@
 # Certifications Portfolio
 
-This repository contains digital copies of my professional and academic certificates.
+This repository contains digital copies of my professional certificates.
 
 ## Overview
 
