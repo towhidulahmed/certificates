@@ -16,4 +16,4 @@ Verification links are included within each certificate document as provided by 
 
 ---
 
-*Last updated: 28 June 2025*
+*Last updated: December 2025*
